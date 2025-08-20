@@ -12,7 +12,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at Data Science at Argentine Catholic University.
+- :school: I am a `Trainee` at Data Science at Argentine Catholic University.
 - :bar_chart: Currently analyzing 145 Hotline Reports (Argentina) with Python + Colab.
 - :handshake: Open to collaboration on Data Science and Software projects.
 - :student: Currently analyzing 145 Hotline Reports (Argentina) with Python + Colab.
